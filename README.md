@@ -2,7 +2,9 @@
 
 This project is regarding the talk on Angular2 Change Detection. 
 
-**Slides can be found [here](http://slides.com/ahsanayaz/deck)**
+**You can see the talk slides [here](http://slides.com/ahsanayaz/deck)**
+
+**See the [LIVE DEMO](https://ahsanayaz.github.io/ml-cd-session)**
 
 The project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
