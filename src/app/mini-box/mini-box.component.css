@@ -1,0 +1,7 @@
+.box-mini{
+    width: 20px;
+    height: 20px;
+    background-color: dodgerblue;
+    position: absolute;
+    border-radius: 50%;
+}

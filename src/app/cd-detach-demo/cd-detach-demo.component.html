@@ -1,0 +1,12 @@
+<h4 class="text-center">
+  {{title}}
+</h4>
+
+<div class="box-container">
+  <div>
+    Counter Value = {{counter}}
+  </div>
+
+  <button (click)="toggleCounter()">{{counterInterval ? 'Stop' : 'Start'}} Counter</button>
+  <button (click)="toggeDetachCd()">{{cdDetached? 'Attach' : 'Detach'}} ChangeDetector</button>
+</div>
