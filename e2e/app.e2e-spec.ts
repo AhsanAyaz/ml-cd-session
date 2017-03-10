@@ -1,6 +1,6 @@
 import { CdSessionNgZonePage } from './app.po';
 
-describe('cd-session-ng-zone App', function() {
+describe('ml-cd-session App', function() {
   let page: CdSessionNgZonePage;
 
   beforeEach(() => {
