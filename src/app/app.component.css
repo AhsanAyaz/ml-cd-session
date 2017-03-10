@@ -1,0 +1,25 @@
+/*  GLOBAL STYLES  */
+
+.text-center{
+    text-align: center;
+}
+
+.box-container{
+    width: 400px;
+    height: 400px;
+    margin: 20px auto;
+}
+
+.text-heading{
+    padding: 10px;
+    text-align: center;
+}
+
+.box-container .box-inner{
+    width: 250px;
+    height: 250px;
+    margin: 20px auto;
+    background: #eee;
+    position: relative;
+    border-radius: 4px;
+}
